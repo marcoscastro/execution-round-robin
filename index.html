@@ -1,0 +1,30 @@
+<!DOCTYPE HTML>
+<html lang="pt-BR">
+<head>
+	<meta charset="UTF-8">
+	<script type="text/javascript" src="js/script.js"></script>
+	<title>Execução Round-Robin</title>
+</head>
+<body onload="inicio()">
+	<center>
+		<div id="div_cabecalho">
+			<h1>Execução Round-Robin</h1>
+			<input type="button" value="Reiniciar" onClick="window.location.reload()" style="width:150px;height:30px;">
+		</div>
+
+		<div id="div_quantum"><h2>Time Quantum: </h2></div>
+
+		<div id="div_cpu"><h2>Nenhum processo usando a CPU</h2></div>
+
+		<div id="div_contexto"><h2>Trocas de contexto: 0</h2></div>
+
+		<div id="div_canvas">
+			<canvas id="canvas_animacao" width="800" height="600" style="border:1px solid #d3d3d3;">
+				Que pena, seu browser não suporta HTML canvas ;-(
+			</canvas>
+		</div>
+
+		<div id="div_fila"><h1>Fila: P1 P2 P3 P4 P5<h1></div>
+	</center>
+</body>
+</html>
