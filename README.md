@@ -11,7 +11,7 @@ The button "reiniciar" is the same that "restart".
 
 "Processo 1 usando a CPU..." is the same that "Process 1 using CPU...".
 
-"Trocas de contexto" é o mesmo que "context switches".
+"Trocas de contexto" is the same that "context switches".
 
 Each circle's value is the time for the process to complete its task.
 
