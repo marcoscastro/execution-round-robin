@@ -21,4 +21,4 @@ The execution is clockwise.
 
 "Fila" is the same that "queue".
 
-![alt tag](http://4.bp.blogspot.com/-dOC11rjXbZA/VK74b-8i6FI/AAAAAAAAEBc/qxC4SSn3Tg4/s1600/imagem.png)
+![alt tag](https://raw.githubusercontent.com/marcoscastro/execution-round-robin/master/execution.PNG)
